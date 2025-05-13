@@ -11,6 +11,7 @@ This chatbot was designed as part of my work in Natural Language Processing and 
 - Screenshots of sample conversations with the bot
 - A simple, scrollable layout that walks you through the interaction
 - To try it out, just open this link https://thecognicode.github.io/rasa_chatbot_demo/
+- The flowchart and a brief explanation are available [here](Flowchart_Rasa_chatbot.pdf)
 
 ### Built with:
 - Rasa - for NLU and dialogue management
