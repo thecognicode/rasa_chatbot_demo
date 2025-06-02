@@ -42,7 +42,7 @@ h1 {
   border-radius: 18px;
   padding: 10px 15px;
   margin: 6px 10px;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1); /* same subtle shadow */
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1); 
 }
 
 
@@ -53,7 +53,7 @@ h1 {
   border-radius: 18px;
   padding: 10px 15px;
   margin: 6px 10px;
-  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1); /* subtle 3D shadow */
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 
